@@ -4,7 +4,7 @@
 
 // git status
 //git add filename
-//git commit - m 'commit to local repositery
+//git commit - m 'commit to local repositery'
 //git push origin master
 
       if(!empty($_POST['submit']))
