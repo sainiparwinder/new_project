@@ -1,0 +1,11 @@
+ sudo git clone https://github.com/sainiparwinder/new_project.git
+ cd new_project------enter into your git project folder
+edit your files or add new files
+git status
+git add files
+git status
+git commit -m 'pass here commit massage'
+git config --global user.email "sainiparwinder@gmail.com"
+git config --global user.name "sainiparwinder"
+
+ git push origin master
