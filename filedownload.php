@@ -11,5 +11,5 @@
 		flush();
 		readfile($filePath);
 		exit;
-		}
+   }
 ?>
